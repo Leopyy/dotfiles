@@ -47,4 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	name = Leonardo
+	name = Leonardo Figueira
+	email = leofigueiracorreia@yahoo.com.br
